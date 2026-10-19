@@ -1,3 +1,3 @@
 # Exam
 This is my first Git Repository
-Author - Raja Muhammad Hassan
+Author - Raja Muhammad Hassan (Apna College)
